@@ -1,0 +1,39 @@
+0101  Chay dan
+0102  Hoa sen no
+0103  Le phat
+0104  Quay soi
+
+0106  Dang hoa
+0107  Bay
+0108  Rung tay
+0109  Dang len cao
+0110  Phay tay
+0111  Chong suon
+0112  Dua thoi
+0113  Vun gon
+0114  Dang ruou
+0115  Vay
+0116  Soi bong
+0117  Cheo do
+0118  Rac dau
+0120  Day thuyen
+0121  Xe to
+0122  Cuop bong
+0123  De tho
+0124  Phui tay ao
+
+0127  Tau nhac
+0128  Vuoc toc
+0129  Ganh
+0130  Xe to
+0131  Nem
+
+0201  Chan chu chi
+0202  Di qua tram
+0203  Quay luu khong nu
+0204  Quay luu khong nam
+0206  Di nu lech
+0207  Dem got
+0208  Di nam ngang
+0209  Chan chu v
+0210  Lao say
